@@ -13,6 +13,7 @@ Unlike traditional matrix multiplication which takes O(n3)O(n^3)O(n3) time, Stra
 2.Read the matrix size n and input the two square matrices A and B.
 
 3.Divide both matrices into four equal submatrices recursively.
+
 4.Use Strassen’s algorithm to compute the seven matrix products and combine them to form the resulting matrix.
 
 5.Display the final multiplied matrix as the output.
